@@ -1,1 +1,3 @@
-# twitter-sentiment-analysis
+## Application Screenshot
+
+![Dashboard](dashboard.png)
